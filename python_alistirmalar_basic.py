@@ -200,7 +200,7 @@ for ders_kodu, kredi, kontenjan in zip(ders_kodu, kredi, kontenjan):
 
 list(zip(ders_kodu, kredi, kontenjan))
 ###############################################
-# GÖREV 8: Aşağıda 2 adet set verilmiştir.
+# GÖREV 8: Aşağıda 2 adet set verilmiştir. Setlerde işlermlere başlandı
 # Sizden istenilen eğer 1. küme 2. kümeyi kapsiyor ise ortak elemanlarını eğer kapsamıyor ise 2. kümenin 1. kümeden farkını yazdıracak fonksiyonu tanımlamanız beklenmektedir.
 ###############################################
 
